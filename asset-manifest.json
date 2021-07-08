@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ozornyshka/sneakers/static/css/main.d487ac9c.chunk.css",
+    "main.js": "/Ozornyshka/sneakers/static/js/main.aee799fe.chunk.js",
+    "main.js.map": "/Ozornyshka/sneakers/static/js/main.aee799fe.chunk.js.map",
+    "runtime-main.js": "/Ozornyshka/sneakers/static/js/runtime-main.9562dab5.js",
+    "runtime-main.js.map": "/Ozornyshka/sneakers/static/js/runtime-main.9562dab5.js.map",
+    "static/css/2.2707a335.chunk.css": "/Ozornyshka/sneakers/static/css/2.2707a335.chunk.css",
+    "static/js/2.9e6cf7a9.chunk.js": "/Ozornyshka/sneakers/static/js/2.9e6cf7a9.chunk.js",
+    "static/js/2.9e6cf7a9.chunk.js.map": "/Ozornyshka/sneakers/static/js/2.9e6cf7a9.chunk.js.map",
+    "index.html": "/Ozornyshka/sneakers/index.html",
+    "static/css/2.2707a335.chunk.css.map": "/Ozornyshka/sneakers/static/css/2.2707a335.chunk.css.map",
+    "static/css/main.d487ac9c.chunk.css.map": "/Ozornyshka/sneakers/static/css/main.d487ac9c.chunk.css.map",
+    "static/js/2.9e6cf7a9.chunk.js.LICENSE.txt": "/Ozornyshka/sneakers/static/js/2.9e6cf7a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9562dab5.js",
+    "static/css/2.2707a335.chunk.css",
+    "static/js/2.9e6cf7a9.chunk.js",
+    "static/css/main.d487ac9c.chunk.css",
+    "static/js/main.aee799fe.chunk.js"
+  ]
+}
