@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Ozornyshka/sneakers/static/css/main.d487ac9c.chunk.css",
-    "main.js": "/Ozornyshka/sneakers/static/js/main.aee799fe.chunk.js",
-    "main.js.map": "/Ozornyshka/sneakers/static/js/main.aee799fe.chunk.js.map",
-    "runtime-main.js": "/Ozornyshka/sneakers/static/js/runtime-main.9562dab5.js",
-    "runtime-main.js.map": "/Ozornyshka/sneakers/static/js/runtime-main.9562dab5.js.map",
-    "static/css/2.2707a335.chunk.css": "/Ozornyshka/sneakers/static/css/2.2707a335.chunk.css",
-    "static/js/2.9e6cf7a9.chunk.js": "/Ozornyshka/sneakers/static/js/2.9e6cf7a9.chunk.js",
-    "static/js/2.9e6cf7a9.chunk.js.map": "/Ozornyshka/sneakers/static/js/2.9e6cf7a9.chunk.js.map",
-    "index.html": "/Ozornyshka/sneakers/index.html",
-    "static/css/2.2707a335.chunk.css.map": "/Ozornyshka/sneakers/static/css/2.2707a335.chunk.css.map",
-    "static/css/main.d487ac9c.chunk.css.map": "/Ozornyshka/sneakers/static/css/main.d487ac9c.chunk.css.map",
-    "static/js/2.9e6cf7a9.chunk.js.LICENSE.txt": "/Ozornyshka/sneakers/static/js/2.9e6cf7a9.chunk.js.LICENSE.txt"
+    "main.css": "/sneakers/static/css/main.0027585e.chunk.css",
+    "main.js": "/sneakers/static/js/main.2c51882a.chunk.js",
+    "main.js.map": "/sneakers/static/js/main.2c51882a.chunk.js.map",
+    "runtime-main.js": "/sneakers/static/js/runtime-main.e07be5ce.js",
+    "runtime-main.js.map": "/sneakers/static/js/runtime-main.e07be5ce.js.map",
+    "static/css/2.2707a335.chunk.css": "/sneakers/static/css/2.2707a335.chunk.css",
+    "static/js/2.9e6cf7a9.chunk.js": "/sneakers/static/js/2.9e6cf7a9.chunk.js",
+    "static/js/2.9e6cf7a9.chunk.js.map": "/sneakers/static/js/2.9e6cf7a9.chunk.js.map",
+    "index.html": "/sneakers/index.html",
+    "static/css/2.2707a335.chunk.css.map": "/sneakers/static/css/2.2707a335.chunk.css.map",
+    "static/css/main.0027585e.chunk.css.map": "/sneakers/static/css/main.0027585e.chunk.css.map",
+    "static/js/2.9e6cf7a9.chunk.js.LICENSE.txt": "/sneakers/static/js/2.9e6cf7a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9562dab5.js",
+    "static/js/runtime-main.e07be5ce.js",
     "static/css/2.2707a335.chunk.css",
     "static/js/2.9e6cf7a9.chunk.js",
-    "static/css/main.d487ac9c.chunk.css",
-    "static/js/main.aee799fe.chunk.js"
+    "static/css/main.0027585e.chunk.css",
+    "static/js/main.2c51882a.chunk.js"
   ]
 }
